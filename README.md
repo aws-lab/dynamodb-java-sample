@@ -1,2 +1,2 @@
 # dynamodb-java-sample
-Sample java project to showcase AWS DynamoDB features
+Sample Java project to showcase usage of AWS DynamoDB 
